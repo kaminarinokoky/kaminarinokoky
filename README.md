@@ -1,6 +1,5 @@
 # kaminarinokokyu
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaminarinokoky&show_icons=true&theme=cobalt)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaminarinokoky)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=kaminarinokoky&theme=ambient-gradient)](https://git.io/streak-stats)
 <p align="center">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg" alt="css3" style="max-width: 100%;">
