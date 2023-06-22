@@ -9,4 +9,4 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" alt="python" style="max-width: 100%;">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/gamedev.svg" alt="gamedev" style="max-width: 100%;">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/steam.svg" herf="https://steamcommunity.com/id/kaminori_no_kokyu/" alt="https://steamcommunity.com/id/kaminori_no_kokyu" style="max-width: 100%;">
-</p>
+</p> 
