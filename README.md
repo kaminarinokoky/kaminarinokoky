@@ -55,14 +55,10 @@
 
 ###
 
-<div align="center">
-  <a href="https://discord.com/users/945652974741508167" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://twitter.com/ich_bin_beny" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
+<p align="center">
+<a href="https://twitter.com/ich_bin_ben" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ich_bin_ben" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.com/users/945652974741508167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/945652974741508167" height="30" width="40" /></a>
+</p>
 
 ###
 <picture>
